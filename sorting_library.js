@@ -1,5 +1,5 @@
 // Array we'll sort
-arr = [100, 3, 6, 7, 50]
+my_arr = [100, 3, 6, 7, 50]
 
 function sleepSort(arr) {
 	for (let n of arr) {
