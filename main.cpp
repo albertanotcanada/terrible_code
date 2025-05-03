@@ -1,5 +1,5 @@
 
-// This is the main function. 
+// This is the main function.
 int main() {
     std::string name = "Alice";
     std::cout << "Hello, " << name << "!" << std::endl;
